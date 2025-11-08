@@ -4,9 +4,10 @@ Promoting openness and accountability in local government through analysis of pu
 
 ---
 
-## 🔍 Current Investigations
+## 🔍 Current Projects
 
-(Investigation links will go here.)
+- [All Projects](projects/)
+- [PB Beach Bug](projects/PB_beach_bug)
 
 ---
 

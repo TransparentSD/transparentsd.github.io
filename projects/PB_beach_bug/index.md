@@ -1,1 +1,3 @@
-Pacific Beach Beach Bug project
+# San Diego Transparency Project
+
+## Pacific Beach Beach Bug project

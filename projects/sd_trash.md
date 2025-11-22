@@ -35,7 +35,7 @@ TBD
 
 | Request ID | Filed | Status | Summary |
 |-----------:|:-----:|:------:|---------|
-| [25_6659](../cpra_requests/sd_trash/25_6659.md) | 08/27/25 | Pending | Study and fee info |
+| [25_6659](../../TransparentSD/cpra_requests/sd_trash/25_6659.md) | 08/27/25 | Pending | Study and fee info |
 
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: pb_beach_bug
-updated: 2025-11-22 17:08:34Z
+updated: 2025-11-22 17:22:35Z
 created: 2025-11-20 23:51:10Z
 ---
 
@@ -39,17 +39,17 @@ This matters because parking meter revenue is required to be used for neighborho
 
 | Request ID | Filed | Status | Summary |
 |-----------:|:-----:|:------:|---------|
-| [25-8456](https://nextrequest.sandiego.gov/requests/25-8456) | 10/27/25 | Closed | Decision and authorization |
-| [25-8457](https://nextrequest.sandiego.gov/requests/25-8457) | 10/27/25 | Closed | Funding and budget reallocations |
-| [25_8458](../cpra_requests/pb_beach_bug/25_8458.md) | 10/27/25 | Pending | Advisory Board and community process |
-| [25-8845](https://nextrequest.sandiego.gov/requests/25-8845) | 11/07/25 | Closed | Council District 1 error correction *(clarifies 25-8458)* |
-| [25-8847](https://nextrequest.sandiego.gov/requests/25-8847) | 11/07/25 | Closed | City Evaluation and Termination *(clarifies 25-8456)* |
-| [25_8848](../cpra_requests/pb_beach_bug/25_8848.md) | 11/07/25 | Pending | Vendor Contracts and Termination *(clarifies 25-8456)* |
-| [25_9261](../cpra_requests/pb_beach_bug/25_9261.md) | 11/20/25 | Pending | Talking Points & Public Messaging *(clarifies 25-8845)* |
-| [25_9262](../cpra_requests/pb_beach_bug/25_9262.md) | 11/20/25 | Pending | Internal Evaluation & Decision Communications *(clarifies 25-8845)* |
-| [25_9263](../cpra_requests/pb_beach_bug/25_9263.md) | 11/20/25 | Pending | Mobility Board Briefings & Notifications *(clarifies 25-8845)* |
+| [25-8456](https://sandiego.nextrequest.gov/requests/25-8456) | 10/27/25 | Closed | Decision and authorization |
+| [25-8457](https://sandiego.nextrequest.gov/requests/25-8457) | 10/27/25 | Closed | Funding and budget reallocations |
+| [25_8458](../../TransparentSD/cpra_requests/pb_beach_bug/25_8458.md) | 10/27/25 | Pending | Advisory Board and community process |
+| [25-8845](https://sandiego.nextrequest.gov/requests/25-8845) | 11/07/25 | Closed | Council District 1 error correction *(clarifies 25-8458)* |
+| [25-8847](https://sandiego.nextrequest.gov/requests/25-8847) | 11/07/25 | Closed | City Evaluation and Termination *(clarifies 25-8456)* |
+| [25_8848](../../TransparentSD/cpra_requests/pb_beach_bug/25_8848.md) | 11/07/25 | Pending | Vendor Contracts and Termination *(clarifies 25-8456)* |
+| [25_9261](../../TransparentSD/cpra_requests/pb_beach_bug/25_9261.md) | 11/20/25 | Pending | Talking Points & Public Messaging *(clarifies 25-8845)* |
+| [25_9262](../../TransparentSD/cpra_requests/pb_beach_bug/25_9262.md) | 11/20/25 | Pending | Internal Evaluation & Decision Communications *(clarifies 25-8845)* |
+| [25_9263](../../TransparentSD/cpra_requests/pb_beach_bug/25_9263.md) | 11/20/25 | Pending | Mobility Board Briefings & Notifications *(clarifies 25-8845)* |
 
-</details>
+</details>A 
 
 
 ---

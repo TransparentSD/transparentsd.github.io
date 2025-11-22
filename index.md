@@ -16,12 +16,12 @@ By clearly documenting what we learn and what remains unanswered, we hope to sup
 
 ## 🔍 Current Projects
 ### Community Funding & Public Assets
-- [Pacific Beach Parking](projects/pb_parking.md)
-- [Pacific Beach Beach Bug](projects/pb_beach_bug.md)
+- [Pacific Beach Parking](../TransparentSD/projects/pb_parking.md)
+- [Pacific Beach Beach Bug](../TransparentSD/projects/pb_beach_bug.md)
 
 ### Citywide Public Services
-- [San Diego Trash](projects/sd_trash.md)
-- [Balboa Park Parking](projects/balboa_park_parking.md)
+- [San Diego Trash](../TransparentSD/projects/sd_trash.md)
+- [Balboa Park Parking](../TransparentSD/projects/balboa_park_parking.md)
 
 ---
 

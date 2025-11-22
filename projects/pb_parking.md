@@ -1,6 +1,6 @@
 ---
 title: pb_parking
-updated: 2025-11-22 17:23:03Z
+updated: 2025-11-22 18:01:04Z
 created: 2025-11-20 23:52:28Z
 ---
 
@@ -35,9 +35,9 @@ TBD
 
 | Request ID | Filed | Status | Summary |
 |-----------:|:-----:|:------:|---------|
-| [25-6671](https://sandiego.nextrequest.gov/requests/25-6671) | 08/27/25 | Closed | Policy |
+| [25-6671](https://sandiego.nextrequest.com/requests/25-6671) | 08/27/25 | Closed | Policy |
 | [25_6672](../cpra_requests/pb_parking/25_6672.md) | 08/27/25 | Pending | Community |
-| [25-6673](https://sandiego.nextrequest.gov/requests/25-6673) | 08/27/25 | Closed | Studies |
+| [25-6673](https://sandiego.nextrequest.com/requests/25-6673) | 08/27/25 | Closed | Studies |
 
 </details>
 

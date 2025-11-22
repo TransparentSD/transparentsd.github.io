@@ -35,13 +35,13 @@ TBD
 
 | Request ID | Filed | Status | Summary |
 |-----------:|:-----:|:------:|---------|
-| [25_6793](../../TransparentSD/cpra_requests/balboa_park_parking/25_6793.md) | 09/02/25 | Pending | Revenue |
-| [25_6794](../../TransparentSD/cpra_requests/balboa_park_parking/25_6794.md) | 09/02/25 | Pending | Zoo |
-| [25_6795](../../TransparentSD/cpra_requests/balboa_park_parking/25_6795.md) | 09/02/25 | Pending | Implementation & Enforcement Plans |
-| [25_6796](../../TransparentSD/cpra_requests/balboa_park_parking/25_6796.md) | 09/02/25 | Pending | Staff & Ordinance |
-| [25_6797](../../TransparentSD/cpra_requests/balboa_park_parking/25_6797.md) | 09/02/25 | Pending | Public Engagement |
-| [25_9258](../../TransparentSD/cpra_requests/balboa_park_parking/25_9258.md) | 09/20/25 | Pending | New Zoo Agreement *(clarifies 25-6794)* |
-| [25_9259](../../TransparentSD/cpra_requests/balboa_park_parking/25_9259.md) | 09/20/25 | Pending | Original Zoo Agreement *(clarifies 25-6794)* |
+| [25_6793](../cpra_requests/balboa_park_parking/25_6793.md) | 09/02/25 | Pending | Revenue |
+| [25_6794](../cpra_requests/balboa_park_parking/25_6794.md) | 09/02/25 | Pending | Zoo |
+| [25_6795](../cpra_requests/balboa_park_parking/25_6795.md) | 09/02/25 | Pending | Implementation & Enforcement Plans |
+| [25_6796](../cpra_requests/balboa_park_parking/25_6796.md) | 09/02/25 | Pending | Staff & Ordinance |
+| [25_6797](../cpra_requests/balboa_park_parking/25_6797.md) | 09/02/25 | Pending | Public Engagement |
+| [25_9258](../cpra_requests/balboa_park_parking/25_9258.md) | 09/20/25 | Pending | New Zoo Agreement *(clarifies 25-6794)* |
+| [25_9259](../cpra_requests/balboa_park_parking/25_9259.md) | 09/20/25 | Pending | Original Zoo Agreement *(clarifies 25-6794)* |
 
 
 </details>

@@ -36,7 +36,7 @@ TBD
 | Request ID | Filed | Status | Summary |
 |-----------:|:-----:|:------:|---------|
 | [25-6671](https://sandiego.nextrequest.gov/requests/25-6671) | 08/27/25 | Closed | Policy |
-| [25_6672](../../TransparentSD/cpra_requests/pb_parking/25_6672.md) | 08/27/25 | Pending | Community |
+| [25_6672](../cpra_requests/pb_parking/25_6672.md) | 08/27/25 | Pending | Community |
 | [25-6673](https://sandiego.nextrequest.gov/requests/25-6673) | 08/27/25 | Closed | Studies |
 
 </details>

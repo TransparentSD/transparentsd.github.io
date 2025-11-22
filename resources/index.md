@@ -1,3 +1,9 @@
+---
+title: index
+updated: 2025-11-21 17:58:22Z
+created: 2025-11-20 23:49:52Z
+---
+
 # Resources
 
 ## California Public Records Act

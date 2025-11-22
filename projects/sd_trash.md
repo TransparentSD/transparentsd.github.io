@@ -1,6 +1,6 @@
 ---
 title: sd_trash
-updated: 2025-11-22 16:28:59Z
+updated: 2025-11-22 17:09:03Z
 created: 2025-11-20 23:53:01Z
 ---
 
@@ -30,12 +30,12 @@ TBD
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong>Requests & Status</strong> (click to expand)</summary>
 
 | Request ID | Filed | Status | Summary |
 |-----------:|:-----:|:------:|---------|
-| [25_6659](../../TransparentSD/cpra_requests/sd_trash/25_6659.md) | 08/27/25 | Pending | Study and fee info |
+| [25_6659](../cpra_requests/sd_trash/25_6659.md) | 08/27/25 | Pending | Study and fee info |
 
 
 </details>
